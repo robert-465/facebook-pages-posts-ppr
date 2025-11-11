@@ -1,0 +1,2 @@
+Enter the URL of the Facebook page to scrape.
+Example: https://www.facebook.com/nytimes
